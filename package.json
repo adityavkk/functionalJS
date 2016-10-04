@@ -1,0 +1,23 @@
+{
+  "name": "functionalJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_currying.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js -q -x 'clear && node'",
+    "curry1": "nodemon part1/1_currying.js -q -x 'clear && node'",
+    "curry2": "nodemon part1/2_currying.js -q -x 'clear && node'",
+    "compose1": "nodemon part1/3_compose.js -q -x 'clear && node'",
+    "compose2": "nodemon part1/4_compose.js -q -x 'clear && node'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eyes": "^0.1.8",
+    "lodash": "^4.16.3",
+    "logging": "^2.0.21",
+    "ramda": "^0.22.1"
+  }
+}
