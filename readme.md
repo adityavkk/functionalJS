@@ -1,7 +1,8 @@
 #Functional JS
 Writing highly readable, and declarative programs by writing point-free code
 
-Run the `.js` files and the corresponding npm script to view logs.
+Run `$ npm install`
+, then the `.js` files and the corresponding npm script to view logs.
 
 **Example:** open `1_currying.js` and run `$ npm run curry1` 
 
