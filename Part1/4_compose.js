@@ -55,8 +55,6 @@ let mostFiery = compose(concat(' spits hot FIYAH!'),
 /**
  * Write a point free function using composition to get the
  * least difficult dragon to train
- *
- *
  */
 
 /******************** SOLUTION ********************/
