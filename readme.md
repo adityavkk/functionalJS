@@ -1,4 +1,4 @@
-#Functional JS
+# Functional JS
 Writing highly readable, and declarative programs by writing point-free code
 
 Run `$ npm install`
@@ -6,10 +6,15 @@ Run `$ npm install`
 
 **Example:** open `1_currying.js` and run `$ npm run curry1` 
 
-###Part 1: Currying and Composition
+### Part 1: Currying and Composition
 
-###Part 2: Functors and Monads
-- coming soon...
+### Part 2: Functors and Applicative Functors
+
+### Part 3: Monads
+
+### Part 4: Project
+
+- Part 2, 3 and 4 coming soon...
 
 ###References
 - [Learn You A Haskell for Great Good](http://learnyouahaskell.com/chapters)
