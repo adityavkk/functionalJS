@@ -1,5 +1,7 @@
 # Functional JS
-Writing highly readable, and declarative programs by writing pure, compositional and point-free code
+Writing highly readable, and declarative programs by writing pure, compositional and point-free code.
+
+An example driven, interactive series of tutorials on purely functional programming in JavaScript with exercises.
 
 Run `$ npm install`
 , then the `.js` files and the corresponding npm script to view logs.
